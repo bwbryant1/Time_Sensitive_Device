@@ -1,0 +1,5 @@
+{\
+"buzzkill":set_score_minus,\
+"bacon bacon bacon bacon bacon bacon":take_thirty_minutes,
+"score":set_score\
+}

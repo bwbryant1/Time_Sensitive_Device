@@ -1,0 +1,1 @@
+copy /Y sce.bak.txt sce.txt
